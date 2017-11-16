@@ -1,0 +1,35 @@
+/*div{
+	border:solid black 2px;
+}*/
+body{
+	background-image:url("background.jpg");
+	background-size:2000px;
+	color:white;
+}
+.content{
+	background-color:#2F2F2F;
+	margin-top:75px;
+	margin-bottom:75px;
+}
+.header{
+	background-color:#2F2F2F;
+	text-align: center;
+	line-height: 50px;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+a:hover{
+	color:white;
+}
+
+
+@media(max-width: 500px){
+
+.content{
+	background-color:#2F2F2F;
+	margin-top:15px;
+	margin-bottom:15px;
+}
+}
