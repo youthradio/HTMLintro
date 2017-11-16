@@ -1,0 +1,24 @@
+/*div{
+	border:solid black 1px;
+}*/
+a{
+	color:white;
+	text-decoration:none;
+}
+a:hover{
+	color:white;
+}
+
+.content{
+	background-color:#CFBE92;
+}
+.header{
+	background-color:#2F2F2F;
+	text-align: center;
+	line-height: 50px;
+	color:white;
+}
+.picture{
+	background-image:url("https://texture.ninja/wp-content/uploads/Abstract-3468.jpg");
+	background-size: 100% 100%;
+}
